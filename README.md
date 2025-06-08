@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there! I'm Raghad
 
-<!--
-**Raghad-ALmarshadi/Raghad-Almarshadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aspiring Data Analyst** on a journey to uncover insights from data.  
+📊 Learning and building with **Excel, SQL, Python, Power BI, and Tableau**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- 🎯 Completing the **Google Data Analytics Professional Certificate**
+- 📘 Planning to begin the **IBM Data Analyst Professional Certificate**
+- 🧹 Working on personal data projects (cleaning, analysis, and visualization)
+- 🌱 Growing my skills through hands-on learning
+
+---
+
+## 🛠️ Tools & Skills
+
+### 👩‍💻 Programming
+- 🐍 Python (Pandas, Matplotlib)
+- 🐘 SQL
+
+### 📊 Data Tools
+- 📈 Excel  
+- 📊 Power BI  
+- 📉 Tableau
+
+### 🧰 Other
+- 💻 Git & GitHub  
+- 🧪 Jupyter Notebook  
+
+---
+
+## 📂 Projects
+Explore my work and practice projects in the [**Repositories section**](https://github.com/Raghad-ALmarshadi?tab=repositories)
+
+---
+
+## 📫 Let's connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/raghad-almarshadi/)
