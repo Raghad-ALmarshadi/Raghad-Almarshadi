@@ -4,8 +4,7 @@
 📊 Learning and building with **Excel, SQL, Python, Power BI, and Tableau**.
 
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Completed-blue?logo=google)
-![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-Upcoming-lightgrey?logo=ibm)
-
+![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-Current--Track-blue?logo=ibm)
 
 
 ---
